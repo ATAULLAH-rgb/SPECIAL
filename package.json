@@ -178,5 +178,13 @@
     "ytdl-core": "^4.1.4"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ATAULLAH-rgb/SPECIAL.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ATAULLAH-rgb/SPECIAL/issues"
+  },
+  "homepage": "https://github.com/ATAULLAH-rgb/SPECIAL#readme"
 }
