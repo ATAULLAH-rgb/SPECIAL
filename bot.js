@@ -3,7 +3,7 @@ const { play, stop } = require('./command');
 
 const bot = new Client();
 
-bot.login('Nzg2NDY0Mjk4MTA0NjUxNzg3.X9Gx9A.ak8OZlUmCDo6aqxBjk4mBuZIQxY');
+bot.login('process.env.token');
 
 bot.on('ready', () => console.log('Bot has logged in!'));
 
